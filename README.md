@@ -1,28 +1,46 @@
-# Bienvenue sur GaraMail !
+# Bienvenue sur SancFis Coding Academy ! LABS-SCA-001-V-001
 
-![Garamail](https://i.imgur.com/eidoyp4.png)
+![Sancfis](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSy9nOlbIkG-En1jzkgtLU2q7Um1Iu77C1SfA&usqp=CAU)
+
+Il s'agit d'un script PDF vers AudioBook Simple Python.
 
 ## Lien des consignes
-[https://github.com/becodeorg/BXLAnderlecht/blob/master/08-AJAX/php-chat.md](https://github.com/becodeorg/BXLAnderlecht/blob/master/08-AJAX/php-chat.md)
+
+[https://github.com/azizdasilva/sancfis-coding-academy/readme.md](https://github.com/azizdasilva/sancfis-coding-academy/readme.md)
 
 ## Langages utilisés ?
 
-+ HTML5, CSS3
-+ JavaScript, jQuery, AJAX
-+ PHP, MySQL ( avec tables relationnelles )
++ PYTHON 3
 
-![Tables relations](https://i.imgur.com/GYTttJ5.png)
+## Librairies utiliées ?
 
-## Responsive ?
++ TKINTER
++ Langdetect
++ Gtts
++ Time & OS
++ Pdftotext
 
-Oui, il est responsive!
+## Instructions d'installation
+
+Les étapes pour installer le programme :
+
+1. Installer les dependences de la librairie _PDFTOTEXT_ avec la commande ``sudo apt install build-essential libpoppler-cpp-dev pkg-config python3-dev``
+   pour les ditributions ubuntu & debian ou ``sudo yum install gcc-c++ pkgconfig poppler-cpp-devel python3-devel``.
+
+2. Ensuite lancer le script _requirement.txt_ avec la commande ``pip3 install -r requirements.txt `` pour installer les librairies réquises pour l'execution du programme.
+
+3. Enfin installer la librairie _Tkinter_ pour python 3 via apt avec la commande ``sudo apt install python3-tk ``
+
 
 ## A venir
 
-Tout _**pleiiiiiiiiiiiiiiiiiiiiiiiiiins**_ de fonctionnalités qui arriveront d'ici peu! Les conversations privées, les smileys, la possibilité de gérer son statut,... 
++Lecteur mp3 intégré au audiobook.
++Script d'automatisation pour les configurations de routeurs e t switchs 
 
 ## Screenshots 
 
-![Connexion](https://i.imgur.com/BxP73v9.png)
+![Connexion](https://ibb.co/KwgW0PP)
 
-![Screenshot chat](https://i.imgur.com/AyQYan5.png)
+## Auteurs
+
+* **Aziz da Silva** _alias_ [@azizdasilva](https://github.com/azizdasilva/sancfis-coding-academy)
