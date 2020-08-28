@@ -39,7 +39,7 @@ Les étapes pour installer le programme :
 
 ## Screenshots 
 
-![Connexion](https://ibb.co/KwgW0PP)
+![Connexion](https://i.ibb.co/hfNV766/pyaudiocapture.png)
 
 ## Auteurs
 
